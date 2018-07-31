@@ -1,0 +1,14 @@
+{
+"companyName": "Blackhound",
+"productName": "SpaceFitness",
+"dataUrl": "SpaceFitness.data.unityweb",
+"asmCodeUrl": "SpaceFitness.asm.code.unityweb",
+"asmMemoryUrl": "SpaceFitness.asm.memory.unityweb",
+"asmFrameworkUrl": "SpaceFitness.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "SpaceFitness.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
